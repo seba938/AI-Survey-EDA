@@ -22,4 +22,4 @@ Python · pandas · seaborn · matplotlib · SciPy
 - `impact.csv`: dati del sondaggio
 
 ## Fonte dei dati
-[indica da dove viene il dataset]
+[Kaggle Dataset: https://www.kaggle.com/datasets/ardayavuzkeskin/the-impact-of-artificial-intelligence-on-society]
